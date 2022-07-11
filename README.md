@@ -17,9 +17,8 @@ Temos a seguinte lista de candidatos como exemplo e os resultados:
 Criar com a linguagem Python uma lista para armazenar os resultados (e outros resultados que quiser no mesmo formato, o código precisa funcionar para qualquer lista que seja inserida nesse formato) e depois uma função que busca o candidato de acordo com os critérios digitados pelo usuário. O usuário vai informar qual a nota mínima de e, t, p e s que ele deseja buscar, nossa aplicação deve listar quem são os candidatos disponíveis com nota maior ou igual a essas informadas pelo usuário.
 
 
- ### 💡 **Um### exemplo:** 
-
-Ao buscar por alguém com resultados '4,4,8,8', por exemplo, será recebido a seguinte mensagem: 
+###  💡  ** Exemplo: **
+Ao buscar por alguém com resultados '4,4,8,8', por exemplo, será recebido a seguinte mensagem:
 
 Os candidatos que atendem à todos os critérios desejados são:
 
